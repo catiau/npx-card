@@ -1,6 +1,6 @@
 {
     "name": "c4t14u",
-    "version": "1.0.13",
+    "version": "1.0.14",
     "description": "One simple project to you knoe more about me :)",
     "main": "card.js",
     "bin": "./card.js",
