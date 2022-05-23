@@ -36,11 +36,11 @@ const me = boxen(
         `${data.labelCard}  ${data.npx}`,
         ``,
         `${chalk.bold(
-            "Olá, meu nome é Cauan. Sou Baiano, tenho 18 anos. Atu- " 
+            "Olá, meu nome é Cauan. Sou Baiano, tenho 18 anos. Atualmente estou " 
         )}`,
-        `${chalk.bold("almente estou estudando sobre Javascript, React.js  e ")}`,
+        `${chalk.bold("estudando sobre Javascript, React.js e pretendo cosenguir um empre-")}`,
         `${chalk.bold(
-            "pretendo cosenguir um emprego na área. "
+            "go na área o quanto antes. "
         )}`
     ].join("\n"), {
         margin: 1,
