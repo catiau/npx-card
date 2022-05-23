@@ -4,11 +4,6 @@
 
 const boxen = require("boxen");
 const chalk = require("chalk");
-const clear = require("clear");
-
-
-clear();
-
 
 
 const data = {
