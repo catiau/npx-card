@@ -7,7 +7,7 @@ const chalk = require("chalk");
 
 const data = {
     name: chalk.bold.green("                     Cauan Teixeira"),
-    twitter: chalk.hex('#00A1D9')("https://twitter.com/catiau007"),
+    twitter: chalk.hex('#00A1D9')("cauantt007@gmail.com"),
     github: chalk.hex('#787878')("https://github.com/catiau"),
     linkedin: chalk.hex('#A959FF')("https://www.linkedin.com/in/cauan-teixeira-2480a2210/"),
     npx: chalk.hex('#A1AB00')("npx catiau"),
@@ -23,7 +23,7 @@ const me = boxen(
         `${data.name}`,
         ``,
         ``,
-        `${data.labelTwitter}  ${data.twitter}`,
+        `${data.labelEmail}  ${data.email}`,
         `${data.labelGitHub}  ${data.github}`,
         `${data.labelLinkedin}  ${data.linkedin}`,
         ``,
